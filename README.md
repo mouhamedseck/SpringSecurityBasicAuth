@@ -20,4 +20,3 @@ Endpoint Tests with Postman
 
 - Logout [POST]
   http://localhost:8080/api/auth/logout
-# SpringSecurityBasicAuth
